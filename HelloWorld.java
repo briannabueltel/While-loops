@@ -18,7 +18,7 @@ public class HelloWorld
             k--;
         }
         int a = 0;
-        int b = 25;
+        int b = 15;
         while (a < 10 && b <= 20) {
             System.out.println(a + " " + b);
             a++;
@@ -32,3 +32,4 @@ public class HelloWorld
         hw.run();
     }
 }
+
